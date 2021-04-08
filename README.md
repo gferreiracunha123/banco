@@ -18,5 +18,3 @@ API:http://localhost:8080/api/extratos
 http://localhost:8080/swagger-ui.html#/
 
 
-
-<img src="https://github.com/gerreiracunha/bancoFront/blob/master/src/assets/Capturar.PNG" heigth="300" width="1500"></img>
